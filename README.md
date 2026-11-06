@@ -39,5 +39,7 @@ Focusing on Deep Learning, Computer Vision (YOLO/PyTorch), and Edge-AI Hardware 
 
 ---
 
+
 ### 📫 Connect with Me
-- **Instagram:** [@kendine.muhendis](https://instagram.com)
+- **LinkedIn:** [linkedin.com/in/ibrahimmay](https://linkedin.com/in/ibrahimmay)
+- **Instagram:** [@__kendinemuhendis__](https://instagram.com/__kendinemuhendis__)
