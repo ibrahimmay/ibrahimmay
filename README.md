@@ -5,14 +5,14 @@ Focusing on Deep Learning, Computer Vision (YOLO/PyTorch), and Edge-AI Hardware 
 
 ---
 
-### 🚀 What I'm Working On
-- 🧬 **Graduation Thesis:** AI-based Alzheimer's Disease Analysis integrating Brain MRI (3D CNN) & Genetic Data.
-- 👁️ **Edge-AI Systems:** Real-time object detection, tracking, and haptic feedback integrations.
-- 🌐 **3D Web Apps:** Building interactive portfolios using React, Three.js, and Tailwind CSS.
+###  What I'm Working On
+-  **Graduation Thesis:** AI-based Alzheimer's Disease Analysis integrating Brain MRI (3D CNN) & Genetic Data.
+-  **Edge-AI Systems:** Real-time object detection, tracking, and haptic feedback integrations.
+-  **3D Web Apps:** Building interactive portfolios using React, Three.js, and Tailwind CSS.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,15 +30,8 @@ Focusing on Deep Learning, Computer Vision (YOLO/PyTorch), and Edge-AI Hardware 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimmay&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimmay&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
-</p>
----
 
 
-### 📫 Connect with Me
+###  Connect with Me
 - **LinkedIn:** [linkedin.com/in/ibrahimmay](https://linkedin.com/in/ibrahimmay)
 - **Instagram:** [@__kendinemuhendis__](https://instagram.com/__kendinemuhendis__)
