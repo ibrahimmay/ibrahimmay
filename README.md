@@ -33,10 +33,9 @@ Focusing on Deep Learning, Computer Vision (YOLO/PyTorch), and Edge-AI Hardware 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimmay&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmay&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimmay&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimmay&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 </p>
-
 ---
 
 
